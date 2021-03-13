@@ -13,11 +13,6 @@ import numpy as np
    we first normalize the absolute scores in the same categorical metrics that are calculated 
    from the absolute scores of variables from the HTML tables of the ILAMB result. 
    Then, the normalized scores are used to replace the values in the categorical metrics. 
-
-   normalize the absolute scores in the same categroical metrics he values 
-   normalized from absolute scores. The absolute scores are the weighted averages of variables 
-   in the category that have non-missing scores when the total number of non-missing scores 
-   are larger than three.
 """
 
 LandJsonOrg = '/lmt/www/html/test_lmtud/AR6_UD/ar6_cmec.json'
