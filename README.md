@@ -1,6 +1,6 @@
 For the version of the AR6 figure,  the ILAMBv2.5 and v2.4 were used for land and ocean model benchmarking, respectively. 
 
-The web portals for these two results are hosted by www.ilamb.org for ([Land](www.ilamb.org/AR6) and [Ocean](www.ilab.org/AR6)), respectively.
+The web portals for these two results are hosted by [www.ilamb.org](https://www.ilamb.org/results/) for ([Land](https://www.ilamb.org/CMIP5v6/ILAMB_AR6) and [Ocean](https://www.ilamb.org/CMIP5v6/IOMB_AR6)), respectively.
 
 The DOI and tarball of the above two results can be obtained from the [figshare] ()
 
