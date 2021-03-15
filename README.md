@@ -47,7 +47,7 @@ The code is MergeCmecJson.py.
     - adjust the locations of the model and metric names in the table
     - apply the IPCC colors to the model names
 
-The LMT UD is on GitHub [here](https://github.com/climatemodeling/unified-dashboard).
+The LMT UD version used above (***hashtag: eb4d53186c50215d462a293cb4f00f850fe8d618***) can be found on the UD GitHub repository [here](https://github.com/climatemodeling/unified-dashboard/tree/eb4d53186c50215d462a293cb4f00f850fe8d618).
 
 5. Finally, we get the HTML file, we have to manually edit it to insert two black rows with (a) and (b) captions. This is the only manual operation for the whole process.
 
